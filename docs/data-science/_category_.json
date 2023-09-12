@@ -1,0 +1,8 @@
+{
+  "label": "Data Science",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This are a 100 documents teaching everything I know about Data Science. We will mainly work in Python, so anything you don't understand will probably appear in the Python Course."
+  }
+}

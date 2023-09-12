@@ -1,0 +1,31 @@
+///////////////
+For react files
+///////////////
+
+run "npm run write-translations -- --locale {LOCALE}"
+this will generate/update all translations files for that LOCALE
+complete the values
+
+/////////
+for docs:
+/////////
+
+copy all your folders and files from docs to i18n/{LOCALE}/docs/current/ and translate them
+BTW: no need to translate the _category_.json files (you will see the keys of the JSON objects on the current.json file)
+
+//////////
+for blogs:
+//////////
+
+copy all your folders and files from blogs to i18n/{LOCALE}/blogs (don't need current) and translate them
+
+////////
+results:
+////////
+
+check locally with "npm run start -- --locale {LOCALE}" (the site will only work on that translation locally)
+run "npm run build" and check the build folder, you will see the translations there
+
+//////////
+More info:  https://docusaurus.io/docs/i18n/tutorial
+//////////

@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Proyectos",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "Estos son algo así como blog posts de mis proyectos.",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "Proyectos Recientes",
+    "description": "The label for the left sidebar"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "The label for version current"
+  },
+  "sidebar.coursesSidebar.category.Python": {
+    "message": "Python",
+    "description": "The label for category Python in sidebar coursesSidebar"
+  },
+  "sidebar.coursesSidebar.category.Python.link.generated-index.description": {
+    "message": "Estos son 100 documentos que enseñan todo lo que sé sobre Python, desde el principio hasta cosas algo complejas.",
+    "description": "The generated-index page description for category Python in sidebar coursesSidebar"
+  },
+  "sidebar.coursesSidebar.category.The Basics": {
+    "message": "Las Bases",
+    "description": "The label for category The Basics in sidebar coursesSidebar"
+  },
+  "sidebar.coursesSidebar.category.Data Science": {
+    "message": "Ciencia de Datos",
+    "description": "The label for category Data Science in sidebar coursesSidebar"
+  },
+  "sidebar.coursesSidebar.category.Data Science.link.generated-index.description": {
+    "message": "Estos son 100 documentos que enseñan todo lo que sé sobre Ciencia de Datos. Trabajaremos principalmente en Python, así que cualquier cosa que no entiendas probablemente aparezca en el Curso de Python.",
+    "description": "The generated-index page description for category Data Science in sidebar coursesSidebar"
+  }
+}

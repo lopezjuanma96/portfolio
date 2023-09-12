@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Yo",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Courses": {
+    "message": "Cursos",
+    "description": "Navbar item with label Courses"
+  },
+  "item.label.Projects": {
+    "message": "Proyectos",
+    "description": "Navbar item with label Projects"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
