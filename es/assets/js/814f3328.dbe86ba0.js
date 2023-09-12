@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Proyectos Recientes","items":[{"title":"Introducci\xf3n a mis Proyectos","permalink":"/portfolio/es/blog/intro"}]}')}}]);

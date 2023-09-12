@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lopezjuanma96.github.io/portfolio/es/blog</id>
+    <title>Juanma López Blog</title>
+    <updated>2023-09-12T18:26:34.968Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lopezjuanma96.github.io/portfolio/es/blog"/>
+    <subtitle>Juanma López Blog</subtitle>
+    <icon>https://lopezjuanma96.github.io/portfolio/es/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Introducción a mis Proyectos]]></title>
+        <id>https://lopezjuanma96.github.io/portfolio/es/blog/intro</id>
+        <link href="https://lopezjuanma96.github.io/portfolio/es/blog/intro"/>
+        <updated>2023-09-12T18:26:34.968Z</updated>
+        <summary type="html"><![CDATA[Introducción a mis Proyectos]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bienvenido-a-mis-proyectos">Bienvenido a mis Proyectos!<a href="#bienvenido-a-mis-proyectos" class="hash-link" aria-label="Enlace directo al Bienvenido a mis Proyectos!" title="Enlace directo al Bienvenido a mis Proyectos!">​</a></h2><p>Esta es una lista de todos los proyectos en los que estoy trabajando / he trabajado. ¡Espero que los disfrutes!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="proyectos">Proyectos<a href="#proyectos" class="hash-link" aria-label="Enlace directo al Proyectos" title="Enlace directo al Proyectos">​</a></h2><p>Estos son algunos de los proyectos más relevantes que me gustaría compartir contigo:</p><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Este</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Aquel</li></ul><p>Así es como mostraré código:</p><div class="language-python codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-python codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token keyword" style="color:#00009f">def</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">hello_world</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token keyword" style="color:#00009f">print</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">"Hello World!"</span><span class="token punctuation" style="color:#393A34">)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copiar código al portapapeles" title="Copiar" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>Y puedo usar el poder de React dentro de los archivos Markdown:</p><button>¿Estás emocionado?</button><p>:: tip</p><p>Espero que estés preparado para pasar un buen rato conmigo !!</p>]]></content>
+        <author>
+            <name>Juanma López</name>
+            <uri>https://github.com/lopezjuanma96</uri>
+        </author>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[121],{8070:o=>{o.exports=JSON.parse('[{"label":"cursos","permalink":"/portfolio/es/docs/tags/cursos","count":1},{"label":"ense\xf1anza","permalink":"/portfolio/es/docs/tags/ensenanza","count":1}]')}}]);
