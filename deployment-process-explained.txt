@@ -1,0 +1,35 @@
+///////////////
+VERSION CONTROL
+///////////////
+push all commits to dev branch
+main branch has separate history so pulling and pushing from source won't work (in fact you could delete the main branch from local)
+
+////////////
+LOCAL DEPLOY
+////////////
+
+with 'npm run start' the website is "built" interactively and served locally
+this makes some features work differently from the final deploy, for example LOCALEs can only be tested separately
+to test locally efectively then, run:
+
+```
+npm run build
+```
+
+which will build the website files on the './build' folder, and then run:
+
+```
+npm run serve
+```
+
+to deploy the website from the './build' folder, which will act exactly as the remote deployments.
+
+/////////////
+REMOTE DEPLOY
+/////////////
+
+Finally, to push to main and update the website, run this command:
+
+```
+cmd /C "set "GIT_USER=lopezjuanma96" && npm run deploy"
+```
