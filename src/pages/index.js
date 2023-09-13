@@ -1,6 +1,10 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 
+import Presentation from './_presentation';
+
+import styles from './index.module.css';
+
 import Translate, {translate} from '@docusaurus/Translate';
 /* 
 from https://docusaurus.io/docs/i18n/tutorial#translate-your-react-code
@@ -16,15 +20,7 @@ Use the one that better fits the context semantically. For example, the <Transla
 export default function Hello() {
   return (
     <Layout title="Juanma López" description="Juanma López Portfolio">
-      <div>
-        <p>
-          <Translate>Hi!</Translate>
-          <br />
-          <Translate id="homepage.intro.thisIs">This is Juanma López Portfolio.</Translate>
-          <br />
-          <Translate id="homepage.intro.iAm">I'm a Biomedical Engineer in love with Data Science</Translate>
-        </p>
-      </div>
+      <Presentation></Presentation>
     </Layout>
   );
 }

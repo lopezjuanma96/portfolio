@@ -92,51 +92,36 @@ const config = {
         ],
       },
       footer: {
-        /*
         style: 'dark',
         links: [
           {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Courses',
                 to: '/docs/intro',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
+                label: 'Projects',
                 to: '/blog',
+              },
+            ],
+          },
+          {
+            title: 'Find me here!',
+            items: [
+              {
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/in/juan-manuel-l%C3%B3pez-036153168/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/lopezjuanma96',
               },
             ],
-          },
+          }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-        */
+        copyright: `Copyright © ${new Date().getFullYear()} My Portfolio, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
