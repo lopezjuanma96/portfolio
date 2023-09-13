@@ -271,9 +271,27 @@
     "description": "The title of the tag list page"
   },
   "presentation.description": {
-    "message": "Soy un Ingeniero Biomédico enamorado de la Ciencia de Datos. Me apasiona aprender cosas nuevas y siempre estoy buscando nuevos desafíos. También me gusta mucho enseñar y la divulgación científica."
+    "message": "Soy un Ingeniero Biomédico enamorado de la Ciencia de Datos.\nMe apasiona aprender cosas nuevas y siempre estoy buscando nuevos desafíos.\nTambién me gusta mucho enseñar y la divulgación científica."
   },
   "presentation.contactTitle": {
     "message": "Contacto"
+  },
+  "skillset.skillsetTitle": {
+    "message": "Mis habilidades"
+  },
+  "skillset.pythonDescription": {
+    "message": "Python es el lenguaje de programación que más he usado desde siempre."
+  },
+  "skillset.nodejsDescription": {
+    "message": "Hace unos años tomé un curso de Full Stack, donde disfruté mucho el backend con NodeJS."
+  },
+  "skillset.gitDescription": {
+    "message": "Uso Git desde hace mucho tiempo, y me siento cómodo con él."
+  },
+  "skillset.vscodeDescription": {
+    "message": "Al igual que muchos otros desarrolladores, VSCode es mi opción para escribir código."
+  },
+  "skillset.arduinoDescription": {
+    "message": "No soy ningún experto en Arduino o electrónica, pero mis años de ingeniero me enseñaron lo básico y un poco más."
   }
 }

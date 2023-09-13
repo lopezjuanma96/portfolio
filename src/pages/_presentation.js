@@ -5,7 +5,6 @@ and a brief list of my skills & qualifications.
 */
 
 import React from 'react';
-import Layout from '@theme/Layout';
 
 import styles from './_presentation.module.css';
 
@@ -20,11 +19,10 @@ export default function Presentation() {
             <div className={styles.text}>
                 <p className={styles.name}>Juanma López</p>
                 <p className={styles.description}>
-                    <Translate id="presentation.description">
-                        I am a Biomedical Engineer in love with Data Science.
-                        I am passionate about learning new things and I am always looking for new challenges.
-                        I also really enjoy teaching and science communication.
-                    </Translate>
+                    {translate({
+                        id: "presentation.description",
+                        message: "I am a Biomedical Engineer in love with Data Science.\nI am passionate about learning new things and I am always looking for new challenges.\nI also really enjoy teaching and science communication."
+                    })}
                 </p>
                 <p className={styles.contactTitle}><Translate id="presentation.contactTitle">Contact</Translate></p>
                 <div className={styles.contact}>

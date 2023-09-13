@@ -2,6 +2,7 @@ import React from 'react';
 import Layout from '@theme/Layout';
 
 import Presentation from './_presentation';
+import Skillset from './_skillset';
 
 import styles from './index.module.css';
 
@@ -21,6 +22,7 @@ export default function Hello() {
   return (
     <Layout title="Juanma López" description="Juanma López Portfolio">
       <Presentation></Presentation>
+      <Skillset></Skillset>
     </Layout>
   );
 }
